@@ -1,7 +1,3 @@
 
 # weeklytakeout.com
-
-The website for Weekly Takeout.
-
-
-
+Website for Weekly Takeout, East Asian American late night variety show for IGTV.
